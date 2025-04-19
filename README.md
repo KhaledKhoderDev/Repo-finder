@@ -1,5 +1,5 @@
 # 🚀 Repo Finder
-![Repo Finder Screenshot](assets/screenshot.png)
+![Repo Finder Screenshot](./assets/screenshot.png)
 A modern web application built with **Vite** and **JavaScript** to search for GitHub users and organizations. It displays profiles and repositories in an interactive, responsive, and user-friendly interface.
 
 ## ✨ Features
