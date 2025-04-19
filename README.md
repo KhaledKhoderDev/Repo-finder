@@ -34,19 +34,19 @@ A modern web application built with **Vite** and **JavaScript** to search for Gi
 
 To run the project locally:
 
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/KhaledKhoderDev/Repo-finder.git
 
-# 2. Navigate to the project directory
+ 2. Navigate to the project directory
 cd Repo-finder
 
-# 3. Install dependencies
+ 3. Install dependencies
 npm install
 
-# 4. Start the development server
+ 4. Start the development server
 npm run dev
 
-# 5. Build for Production
+ 5. Build for Production
 ```npm run build```
 The production-ready files will be in the dist folder.
 
